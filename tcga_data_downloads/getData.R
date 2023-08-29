@@ -31,27 +31,3 @@ getResults(query.TCGA)
 GDCdownload(query.TCGA)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
