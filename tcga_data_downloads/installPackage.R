@@ -43,7 +43,6 @@ write.csv(expData, "./Data/expression.csv")
 # Clears memory
 rm(list = ls())
 
-
 install.packages("maftools")
 
 if (!require("BiocManager", quietly = TRUE))
